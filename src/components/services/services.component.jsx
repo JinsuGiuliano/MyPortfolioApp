@@ -12,14 +12,14 @@ const Services = () => (
             Services
           </h3>
           <p className="subtitle-a">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            These are the main areas I've been working the last three years
           </p>
           <div className="line-mf" />
         </div>
       </div>
     </div>
     <div className="row">
-      <div className="col-md-4">
+      <div className="col-md-6">
         <div className="service-box">
           <div className="service-ico">
             <span className="ico-circle"><i className="ion-monitor" /></span>
@@ -27,14 +27,13 @@ const Services = () => (
           <div className="service-content">
             <h2 className="s-title">Web Design</h2>
             <p className="s-description text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-              provident vitae! Magni
-              tempora perferendis eum non provident.
+              Working with content managment tools as WordPress, I've reach a clean and modern design eye for Frontend Web Design.
+              At the same time searching for Resposive integrations for a better user experience.
             </p>
           </div>
         </div>
       </div>
-      <div className="col-md-4">
+      <div className="col-md-6">
         <div className="service-box">
           <div className="service-ico">
             <span className="ico-circle"><i className="ion-code-working" /></span>
@@ -42,24 +41,8 @@ const Services = () => (
           <div className="service-content">
             <h2 className="s-title">Web Development</h2>
             <p className="s-description text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-              provident vitae! Magni
-              tempora perferendis eum non provident.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="col-md-4">
-        <div className="service-box">
-          <div className="service-ico">
-            <span className="ico-circle"><i className="ion-camera" /></span>
-          </div>
-          <div className="service-content">
-            <h2 className="s-title">Photography</h2>
-            <p className="s-description text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-              provident vitae! Magni
-              tempora perferendis eum non provident.
+              Because of my dedication I've been able to work on diferents Profesional Enviroments as a Web Developer,
+              from Development to Production, taking care for testing, versioning and corrections in production enviroments.
             </p>
           </div>
         </div>

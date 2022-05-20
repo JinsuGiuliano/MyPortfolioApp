@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import Menu  from './components/menu/menu.component';
 import Hero  from './components/hero/hero.component';
 import About  from './components/about/about.component';
-import Blog from './components/blog/blog.component';
+//import Blog from './components/blog/blog.component';
 import Porfolio from './components/porfolio/portfolio.component';
 import Services from './components/services/services.component';
 import Contact from './components/contact/contact.component';
@@ -18,7 +18,6 @@ const App = () =>{
         <About/>
         <Services/>
         <Porfolio/>
-        <Blog/>
         <Contact/>
       </div>
     );

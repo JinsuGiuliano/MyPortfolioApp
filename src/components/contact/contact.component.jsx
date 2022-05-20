@@ -62,15 +62,12 @@ const Contact = () => (
                 </div>
                 <div className="more-info">
                     <p className="lead">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                    expedita aperiam aliquid at.
-                    Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                    mollitia inventore?
+                    Hi I hope you liked my porfolio. Feel free to contact me for any help you would need.
                     </p>
                     <ul className="list-ico">
-                    <li><span className="ion-ios-location" /> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                    <li><span className="ion-ios-telephone" /> (617) 557-0089</li>
-                    <li><span className="ion-email" /> contact@example.com</li>
+                    <li><span className="ion-ios-location" /> VIOOL 6, POSTAL CODE 6644DT, EWIJK, NETHERLANDS </li>
+                    <li><span className="ion-ios-telephone" /> 06 38 657 704 </li>
+                    <li><span className="ion-email" /> jinsu.gustavo.giuliano@gmail.com </li>
                     </ul>
                 </div>
                 <div className="socials">
@@ -93,15 +90,8 @@ const Contact = () => (
         <div className="row">
         <div className="col-sm-12">
             <div className="copyright-box">
-            <p className="copyright">© Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
+            <p className="copyright">Design by <strong>Gustavo Giuliano</strong></p>
             <div className="credits">
-                {/*
-            All the links in the footer should remain intact.
-            You can delete the links only if you purchased the pro version.
-            Licensing information: https://bootstrapmade.com/license/
-            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
-            */}
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
             </div>
             </div>
         </div>

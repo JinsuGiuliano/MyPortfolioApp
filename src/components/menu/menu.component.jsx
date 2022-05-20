@@ -26,9 +26,6 @@ const Menu = () => (
           <a className="nav-link js-scroll" href="#work">Work</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link js-scroll" href="#blog">Blog</a>
-        </li>
-        <li className="nav-item">
           <a className="nav-link js-scroll" href="#contact">Contact</a>
         </li>
       </ul>
