@@ -20,7 +20,7 @@ const About = () => (
                 <div className="col-sm-6 col-md-7">
                   <div className="about-info">
                     <p><span className="title-s">Name: </span> <span>Gustavo Giuliano</span></p>
-                    <p><span className="title-s">Profile: </span> <span> jr React Js Dev </span></p>
+                    <p><span className="title-s">Profile: </span> <span> Web Developer </span></p>
                     <p><span className="title-s">Email: </span> <span>jinsu.gustavo.giuliano@gmail.com</span></p>
                     <p><span className="title-s">Phone: </span> <br/><span>(+31) 063 865 7704 (Netherlands) <br/> (+595) 984 452 539 (Paraguay)</span></p>
                   </div>
@@ -32,15 +32,15 @@ const About = () => (
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <span>NODE JS</span> <span className="pull-right">85%</span>
+                <span>NODE JS</span> <span className="pull-right">60%</span>
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '85%'}} aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <span>GITHUB</span> <span className="pull-right">75%</span>
+                <span>GITHUB</span> <span className="pull-right">80%</span>
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '75%'}} aria-valuenow={75} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <span>CLOUD TOOLS</span> <span className="pull-right">50%</span>
+                <span>CLOUD TOOLS</span> <span className="pull-right">65%</span>
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '50%'}} aria-valuenow={50} aria-valuemin={0} aria-valuemax={100} />
                 </div>
