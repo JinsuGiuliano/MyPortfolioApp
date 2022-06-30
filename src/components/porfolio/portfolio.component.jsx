@@ -8,7 +8,8 @@ const Porfolio = () => (
           <div className="title-box text-center">
             <h3 className="title-a">Portfolio</h3>
             <p className="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Some of the projects I've been working on last year. Hope you like
+              them!
             </p>
             <div className="line-mf" />
           </div>
