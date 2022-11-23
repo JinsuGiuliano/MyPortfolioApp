@@ -200,7 +200,7 @@ const Porfolio = () => (
 				<div className="col-md-6">
 					<div className="work-box">
 						<a
-							href="https://github.com/JinsuGiuliano/app-test-svelte"
+							href="https://venerable-gelato-23bbd3.netlify.app/"
 							target="_blank"
 							rel="noreferrer"
 						>
