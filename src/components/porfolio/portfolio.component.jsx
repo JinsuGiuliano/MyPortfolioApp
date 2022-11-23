@@ -210,7 +210,7 @@ const Porfolio = () => (
 							<div className="work-content">
 								<div className="row">
 									<div className="col-sm-8">
-										<h2 className="w-title">Svelte JS Application</h2>
+										<h2 className="w-title">Binace API Consulting APP</h2>
 										<div className="w-more">
 											<span className="w-ctegory">Technologies:</span>
 											<span>
