@@ -120,7 +120,7 @@ const Porfolio = () => (
 							rel="noreferrer"
 						>
 							<div className="work-img">
-								<img src="img/ongsocial.png" alt="" className="img-fluid" />
+								<img src="img/Golang.png" alt="" className="img-fluid" />
 							</div>
 							<div className="work-content">
 								<div className="row">
