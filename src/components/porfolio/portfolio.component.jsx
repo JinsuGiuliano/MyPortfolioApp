@@ -160,7 +160,7 @@ const Porfolio = () => (
 				<div className="col-md-6">
 					<div className="work-box">
 						<a
-							href="https://github.com/JinsuGiuliano/api_go"
+							href="https://github.com/JinsuGiuliano/mongoDB_API"
 							target="_blank"
 							rel="noreferrer"
 						>
@@ -183,6 +183,49 @@ const Porfolio = () => (
 											<br />
 											<span className="w-ctegory">
 												Web Services Development
+											</span>{" "}
+											/ <span className="w-date">23 Nov. 2022</span>
+										</div>
+									</div>
+									<div className="col-sm-4">
+										<div className="w-like">
+											<span className="ion-ios-plus-outline" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div className="col-md-6">
+					<div className="work-box">
+						<a
+							href="https://github.com/JinsuGiuliano/app-test-svelte"
+							target="_blank"
+							rel="noreferrer"
+						>
+							<div className="work-img">
+								<img src="img/svelteApp.png" alt="" className="img-fluid" />
+							</div>
+							<div className="work-content">
+								<div className="row">
+									<div className="col-sm-8">
+										<h2 className="w-title">Svelte JS Application</h2>
+										<div className="w-more">
+											<span className="w-ctegory">Technologies:</span>
+											<span>
+												Svelte Js / Binance API / Web Sockets / UIDaisy
+												Components
+											</span>
+											<br />
+											<span className="w-ctegory">Features:</span>
+											<span> Web Sockets / Realtime Charts / </span>
+											<br />
+											<span className="w-ctegory">Future Features:</span>
+											<span>Improve data visualization</span>
+											<br />
+											<span className="w-ctegory">
+												Web Application Development
 											</span>{" "}
 											/ <span className="w-date">23 Nov. 2022</span>
 										</div>
