@@ -238,6 +238,15 @@ const Porfolio = () => (
 								</div>
 							</div>
 						</a>
+						<a
+							href="https://github.com/JinsuGiuliano/app-test-svelte"
+							target="_blank"
+							rel="noreferrer"
+						>
+							<span className="ico-circle">
+								<i className="ion-social-github" />
+							</span>
+						</a>
 					</div>
 				</div>
 			</div>
