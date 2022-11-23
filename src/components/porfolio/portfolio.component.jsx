@@ -243,9 +243,7 @@ const Porfolio = () => (
 							target="_blank"
 							rel="noreferrer"
 						>
-							<span className="ico-circle">
-								<i className="ion-social-github" />
-							</span>
+							<i className="ion-social-github" />
 						</a>
 					</div>
 				</div>
