@@ -157,6 +157,46 @@ const Porfolio = () => (
 						</a>
 					</div>
 				</div>
+				<div className="col-md-6">
+					<div className="work-box">
+						<a
+							href="https://github.com/JinsuGiuliano/api_go"
+							target="_blank"
+							rel="noreferrer"
+						>
+							<div className="work-img">
+								<img src="img/nodejs.png" alt="" className="img-fluid" />
+							</div>
+							<div className="work-content">
+								<div className="row">
+									<div className="col-sm-8">
+										<h2 className="w-title">Node Js & Mongo DB Simple API</h2>
+										<div className="w-more">
+											<span className="w-ctegory">Technologies:</span>
+											<span>Node Js / Mongo DB</span>
+											<br />
+											<span className="w-ctegory">Features:</span>
+											<span>CRUD system / Chat System / User Auth System</span>
+											<br />
+											<span className="w-ctegory">Future Features:</span>
+											<span>Middlewares Enhance Security</span>
+											<br />
+											<span className="w-ctegory">
+												Web Services Development
+											</span>{" "}
+											/ <span className="w-date">23 Nov. 2022</span>
+										</div>
+									</div>
+									<div className="col-sm-4">
+										<div className="w-like">
+											<span className="ion-ios-plus-outline" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
