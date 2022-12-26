@@ -353,6 +353,75 @@ const Porfolio = () => (
 							</a>
 						</div>
 					</div>
+					<div className="work-box">
+						<div className="work-img">
+							<img src="img/svelteApp.png" alt="" className="img-fluid" />
+						</div>
+						<div className="work-content">
+							<div className="row">
+								<div className="col-sm-8">
+									<h2 className="w-title">Mailing JSON & GRPC server</h2>
+									<div className="w-more">
+										<span className="w-ctegory">Technologies:</span>
+										<span>Golang / GRPC / CLI App</span>
+										<br />
+										<span className="w-ctegory">Features:</span>
+										<span> A Json Restful API / GRPC Restful API / </span>
+										<br />
+										<span className="w-ctegory">Future Features:</span>
+										<span>Client GUI</span>
+										<br />
+										<span className="w-ctegory">MAILSERVER API</span> /{" "}
+										<span className="w-date">26 DIC. 2022</span>
+									</div>
+								</div>
+								<div className="col-sm-4">
+									<div className="w-like">
+										<span className="ion-ios-plus-outline" />
+									</div>
+								</div>
+							</div>
+						</div>
+						<div
+							style={{
+								padding: 10,
+								display: "flex",
+								alignItems: "center",
+								flexDirection: "row",
+								justifyContent: "space-between",
+							}}
+						>
+							<a
+								href="https://github.com/JinsuGiuliano/app-test-svelte"
+								target="_blank"
+								rel="noreferrer"
+							>
+								<div
+									style={{ padding: 5, display: "flex", alignItems: "center" }}
+								>
+									<i
+										className="ion-social-github"
+										style={{ fontSize: 40, marginRight: 10 }}
+									/>
+									<span>Check the fun part here!</span>
+								</div>
+							</a>
+							<a
+								href="https://venerable-gelato-23bbd3.netlify.app"
+								target="_blank"
+								rel="noreferrer"
+							>
+								<div
+									style={{ padding: 5, display: "flex", alignItems: "center" }}
+								>
+									<i
+										className="ion-eye"
+										style={{ fontSize: 40, marginRight: 10 }}
+									/>
+								</div>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
