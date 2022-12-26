@@ -392,7 +392,7 @@ const Porfolio = () => (
 							}}
 						>
 							<a
-								href="https://github.com/JinsuGiuliano/app-test-svelte"
+								href="https://github.com/JinsuGiuliano/mailinglist"
 								target="_blank"
 								rel="noreferrer"
 							>
@@ -404,20 +404,6 @@ const Porfolio = () => (
 										style={{ fontSize: 40, marginRight: 10 }}
 									/>
 									<span>Check the fun part here!</span>
-								</div>
-							</a>
-							<a
-								href="https://venerable-gelato-23bbd3.netlify.app"
-								target="_blank"
-								rel="noreferrer"
-							>
-								<div
-									style={{ padding: 5, display: "flex", alignItems: "center" }}
-								>
-									<i
-										className="ion-eye"
-										style={{ fontSize: 40, marginRight: 10 }}
-									/>
 								</div>
 							</a>
 						</div>
