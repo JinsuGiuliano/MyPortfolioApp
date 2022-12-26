@@ -279,78 +279,89 @@ const Porfolio = () => (
 						</div>
 					</div>
 				</div>
-				<div className="col-md-6">
-					<div className="work-box">
-						<div className="work-img">
-							<img src="img/svelteApp.png" alt="" className="img-fluid" />
-						</div>
-						<div className="work-content">
-							<div className="row">
-								<div className="col-sm-8">
-									<h2 className="w-title">Binace API Consulting APP</h2>
-									<div className="w-more">
-										<span className="w-ctegory">Technologies:</span>
-										<span>
-											Svelte Js / Binance API / Web Sockets / UIDaisy Components
-										</span>
-										<br />
-										<span className="w-ctegory">Features:</span>
-										<span> Web Sockets / Realtime Charts / </span>
-										<br />
-										<span className="w-ctegory">Future Features:</span>
-										<span>Improve data visualization</span>
-										<br />
-										<span className="w-ctegory">
-											Web Application Development
-										</span>{" "}
-										/ <span className="w-date">23 Nov. 2022</span>
+				<div className="row">
+					<div className="col-md-6">
+						<div className="work-box">
+							<div className="work-img">
+								<img src="img/svelteApp.png" alt="" className="img-fluid" />
+							</div>
+							<div className="work-content">
+								<div className="row">
+									<div className="col-sm-8">
+										<h2 className="w-title">Binace API Consulting APP</h2>
+										<div className="w-more">
+											<span className="w-ctegory">Technologies:</span>
+											<span>
+												Svelte Js / Binance API / Web Sockets / UIDaisy
+												Components
+											</span>
+											<br />
+											<span className="w-ctegory">Features:</span>
+											<span> Web Sockets / Realtime Charts / </span>
+											<br />
+											<span className="w-ctegory">Future Features:</span>
+											<span>Improve data visualization</span>
+											<br />
+											<span className="w-ctegory">
+												Web Application Development
+											</span>{" "}
+											/ <span className="w-date">23 Nov. 2022</span>
+										</div>
 									</div>
-								</div>
-								<div className="col-sm-4">
-									<div className="w-like">
-										<span className="ion-ios-plus-outline" />
+									<div className="col-sm-4">
+										<div className="w-like">
+											<span className="ion-ios-plus-outline" />
+										</div>
 									</div>
 								</div>
 							</div>
-						</div>
-						<div
-							style={{
-								padding: 10,
-								display: "flex",
-								alignItems: "center",
-								flexDirection: "row",
-								justifyContent: "space-between",
-							}}
-						>
-							<a
-								href="https://github.com/JinsuGiuliano/app-test-svelte"
-								target="_blank"
-								rel="noreferrer"
+							<div
+								style={{
+									padding: 10,
+									display: "flex",
+									alignItems: "center",
+									flexDirection: "row",
+									justifyContent: "space-between",
+								}}
 							>
-								<div
-									style={{ padding: 5, display: "flex", alignItems: "center" }}
+								<a
+									href="https://github.com/JinsuGiuliano/app-test-svelte"
+									target="_blank"
+									rel="noreferrer"
 								>
-									<i
-										className="ion-social-github"
-										style={{ fontSize: 40, marginRight: 10 }}
-									/>
-									<span>Check the fun part here!</span>
-								</div>
-							</a>
-							<a
-								href="https://venerable-gelato-23bbd3.netlify.app"
-								target="_blank"
-								rel="noreferrer"
-							>
-								<div
-									style={{ padding: 5, display: "flex", alignItems: "center" }}
+									<div
+										style={{
+											padding: 5,
+											display: "flex",
+											alignItems: "center",
+										}}
+									>
+										<i
+											className="ion-social-github"
+											style={{ fontSize: 40, marginRight: 10 }}
+										/>
+										<span>Check the fun part here!</span>
+									</div>
+								</a>
+								<a
+									href="https://venerable-gelato-23bbd3.netlify.app"
+									target="_blank"
+									rel="noreferrer"
 								>
-									<i
-										className="ion-eye"
-										style={{ fontSize: 40, marginRight: 10 }}
-									/>
-								</div>
-							</a>
+									<div
+										style={{
+											padding: 5,
+											display: "flex",
+											alignItems: "center",
+										}}
+									>
+										<i
+											className="ion-eye"
+											style={{ fontSize: 40, marginRight: 10 }}
+										/>
+									</div>
+								</a>
+							</div>
 						</div>
 					</div>
 					<div className="col-md-6">
