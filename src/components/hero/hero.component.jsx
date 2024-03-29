@@ -13,7 +13,7 @@ const Hero = () => (
 					<h1 className="intro-title mb-4">I am Gustavo Giuliano</h1>
 					<p className="intro-subtitle">
 						<span className="text-slider-items">
-							ReactJS,Svelte,Golang,Firestore,NodeJS,ExpressJs{" "}
+						Golang,ReactJS,Svelte,Firestore,NodeJS,Ruby{" "}
 						</span>
 						<strong className="text-slider" />
 					</p>

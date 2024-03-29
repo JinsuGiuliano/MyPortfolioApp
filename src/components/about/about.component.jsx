@@ -20,7 +20,7 @@ const About = () => (
                 <div className="col-sm-6 col-md-7">
                   <div className="about-info">
                     <p><span className="title-s">Name: </span> <span>Gustavo Giuliano</span></p>
-                    <p><span className="title-s">Profile: </span> <span> Web Developer </span></p>
+                    <p><span className="title-s">Profile: </span> <span> Software Developer </span></p>
                     <p><span className="title-s">Email: </span> <span>jinsu.gustavo.giuliano@gmail.com</span></p>
                     <p><span className="title-s">Phone: </span> <br/><span>(+31) 063 865 7704 (Netherlands) <br/> (+595) 984 452 539 (Paraguay)</span></p>
                   </div>
@@ -28,19 +28,19 @@ const About = () => (
               </div>
               <div className="skill-mf">
                 <p className="title-s">Skill</p>
-                <span>JAVASCRIPT</span> <span className="pull-right">90%</span>
+                <span>Golang </span> <span className="pull-right">80%</span>
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <span>NODE JS</span> <span className="pull-right">60%</span>
+                <span>PostgreSQL</span> <span className="pull-right">80%</span>
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '85%'}} aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <span>GITHUB</span> <span className="pull-right">80%</span>
+                <span>Svelte.js</span> <span className="pull-right">85%</span>
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '75%'}} aria-valuenow={75} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <span>CLOUD TOOLS</span> <span className="pull-right">65%</span>
+                <span>Github</span> <span className="pull-right">85%</span>
                 <div className="progress">
                   <div className="progress-bar" role="progressbar" style={{width: '50%'}} aria-valuenow={50} aria-valuemin={0} aria-valuemax={100} />
                 </div>
@@ -55,20 +55,31 @@ const About = () => (
                   </h5>
                 </div>
                
-                <p className="lead">
-                 Since 2019 I've been a self tought web developer, while studying for my Computer Science Degree and working as a Web Developer until now, 
-                 I've experience many programing languages from low to high level, including C#, JAVA, PHP and JAVASCRIPT. 
+                  <p className="lead">
+                    <span className='font-weight-bold'>Passionate Full-Stack Developer</span><br/>
+                    I am a passionate full-stack developer with a penchant for problem-solving and a commitment to delivering robust solutions.
+                    Currently, I am immersed in the dynamic world of fintech at Quantex, where I play a pivotal role in crafting innovative solutions for our trading platform specializing in government bonds.
                 </p>
-                <p className="lead">
-                  Last year while I was working as a C# Web Dev, I started to be courious about high level programing languages as JAVASCRIPT and libraries
-                  as REACT and NODE JS. Since then I been focusing my Studying and work in this technologies.
+                  <p className="lead ">
+                  <span className='font-weight-bold'>Technological Versatility </span><br/>
+                    In my role, I thrive on the versatility of technologies, leveraging Golang and PostgreSQL for our backend infrastructure and harnessing the power of Svelte.js for our sleek and responsive frontend.
+                    This diversity allows me to tackle a spectrum of challenges, from architecting intricate data structures for trading algorithms to implementing secure user authentication mechanisms.
                 </p>
-                <p className="lead">
-                I'm a courious person so I allways want to look for new and better solutions searching for efficiency and scalability.
+                  <p className="lead">
+                   
+                  <span className='font-weight-bold'>Startup Ethos: Integrating Business Understanding with Technical Mastery</span><br/>
+                    What sets Quantex apart is its startup ethos, fostering an environment where understanding the business domain is as crucial as mastering the development stack.
+                    Here, I've had the privilege of spearheading projects ranging from real-time trader chats to in-depth trade analysis tools, all while honing my skills in development, review, and deployment practices on a daily basis.
               </p>
-              <p className="lead">
-              I am a responsible, dynamic person, with aspirations, desire to excel and goals based on the achievement of objectives, 
-              I learn quickly and I am interested in adequately complying with honesty and responsibility in the various activities that I carry out.
+                  <p className="lead">
+                    <span className='font-weight-bold'>Growth Through Collaboration: Mentorship and Development Practices</span><br/>
+                    Collaborating with seasoned developers has been instrumental in my growth journey. Their mentorship has instilled in me a deep appreciation for robust development practices and a holistic understanding of the software development lifecycle. This exposure has also fueled my innate curiosity, prompting me to explore new horizons.
+                    As evidence of this, I have embarked on mastering the Ruby programming language and the Ruby on Rails framework, further expanding my toolkit to tackle diverse challenges.
+                  </p>
+                  <p className="lead">
+                    <span className='font-weight-bold'>Driven by Creativity: Beyond Language and Tools</span><br/>
+                  In essence, I am not merely bound to specific languages or tools; rather, I am driven by an insatiable curiosity and a relentless pursuit of creative solutions.
+                  My journey as a developer is characterized by a commitment to excellence, a thirst for knowledge, and an unwavering passion for crafting software that makes a tangible difference.
               </p>
               </div>
             </div>

@@ -37,14 +37,15 @@ const Menu = () => (
 							About
 						</a>
 					</li>
-					<li className="nav-item">
-						<a className="nav-link js-scroll" href="#service">
-							Services
-						</a>
-					</li>
+
 					<li className="nav-item">
 						<a className="nav-link js-scroll" href="#work">
 							Portfolio
+						</a>
+					</li>
+					<li className="nav-item">
+						<a className="nav-link js-scroll" href="#service">
+							Services
 						</a>
 					</li>
 					<li className="nav-item">

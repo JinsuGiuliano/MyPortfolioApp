@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => (
   <section
     className="paralax-mf footer-paralax bg-image sect-mt4 route"
-    style={{ backgroundImage: "url(img/overlay-bg.jpg)" }}
+    style={{ backgroundImage: "url(img/intro-bg.jpg)" }}
   >
     <div className="overlay-mf" />
     <div className="container">

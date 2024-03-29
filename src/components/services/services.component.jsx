@@ -22,27 +22,13 @@ const Services = () => (
       <div className="col-md-6">
         <div className="service-box">
           <div className="service-ico">
-            <span className="ico-circle"><i className="ion-monitor" /></span>
-          </div>
-          <div className="service-content">
-            <h2 className="s-title">Web Design</h2>
-            <p className="s-description text-center">
-              Working with content managment tools as WordPress, I've reach a clean and modern design eye for Frontend Web Design.
-              At the same time searching for Resposive integrations for a better user experience.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="col-md-6">
-        <div className="service-box">
-          <div className="service-ico">
             <span className="ico-circle"><i className="ion-code-working" /></span>
           </div>
           <div className="service-content">
             <h2 className="s-title">Web Development</h2>
             <p className="s-description text-center">
-              Because of my dedication I've been able to work on diferents Profesional Enviroments as a Web Developer,
-              from Development to Production, taking care for testing, versioning and corrections in production enviroments.
+                Ready to embark on a journey of innovation and success? Let's collaborate to bring your vision to life.
+                Contact me today to discuss how I can contribute to your projects and help you achieve your goals.
             </p>
           </div>
         </div>
