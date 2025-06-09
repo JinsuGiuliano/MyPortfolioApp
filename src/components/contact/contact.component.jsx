@@ -23,11 +23,11 @@ const Contact = () => (
                     </p>
                     <ul className="list-ico">
                       <li>
-                        <span className="ion-ios-location" /> LOMAS VALENTINAS
-                        1243, ASUNCIÓN, PARAGUAY{" "}
+                        <span className="ion-ios-location" /> Av Gaona 2143
+                        , Ramos Mejía, PBA, Argentina{" "}
                       </li>
                       <li>
-                        <span className="ion-ios-telephone" /> +595 984452539
+                        <span className="ion-ios-telephone" /> +(54) 11 5039 1043
                         (ONLY WHATSAPP)
                       </li>
                       <li>
