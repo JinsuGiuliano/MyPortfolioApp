@@ -16,8 +16,8 @@ const Porfolio = () => (
 				</div>
 			</div>
 			<div className="row">
-				<div className="col-md-6">
-					<div className="work-box">
+				<div className="col-md-6 ">
+					<div className="work-box rounded">
 						<div className="work-img">
 							<img src="img/gg-shop.png" alt="" className="img-fluid" />
 						</div>
@@ -92,8 +92,8 @@ const Porfolio = () => (
 						</div>
 					</div>
 				</div>
-				<div className="col-md-6">
-					<div className="work-box">
+				{/* <div className="col-md-6">
+					<div className="work-box rounded ">
 						<div className="work-img">
 							<img src="img/ongsocial.png" alt="" className="img-fluid" />
 						</div>
@@ -171,9 +171,9 @@ const Porfolio = () => (
 							</a>
 						</div>
 					</div>
-				</div>
+				</div> */}
 				<div className="col-md-6">
-					<div className="work-box">
+					<div className="work-box rounded ">
 						<div className="work-img">
 							<img src="img/Golang.png" alt="" className="img-fluid" />
 						</div>
@@ -229,7 +229,7 @@ const Porfolio = () => (
 					</div>
 				</div>
 				<div className="col-md-6">
-					<div className="work-box">
+					<div className="work-box rounded ">
 						<div className="work-img">
 							<img src="img/nodejs.png" alt="" className="img-fluid" />
 						</div>
@@ -281,7 +281,7 @@ const Porfolio = () => (
 				</div>
 				<div className="row">
 					<div className="col-md-6">
-						<div className="work-box">
+						<div className="work-box rounded ">
 							<div className="work-img">
 								<img src="img/svelteApp.png" alt="" className="img-fluid" />
 							</div>
@@ -365,7 +365,7 @@ const Porfolio = () => (
 						</div>
 					</div>
 					<div className="col-md-6">
-						<div className="work-box">
+						<div className="work-box rounded ">
 							<div className="work-img">
 								<img src="img/golangMail.png" alt="" className="img-fluid" />
 							</div>

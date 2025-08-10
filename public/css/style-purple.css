@@ -323,9 +323,8 @@ a:hover {
 
 /* Back to top button */
 
-.back-to-top {
+.chat-btn-globe {
   position: fixed;
-  display: none;
   background: #8400ff;
   color: #fff;
   width: 44px;
@@ -340,7 +339,7 @@ a:hover {
   z-index: 11;
 }
 
-.back-to-top i {
+.chat-btn-globe i {
   padding-top: 12px;
   color: #fff;
 }
@@ -1259,7 +1258,7 @@ footer .credits a {
 }
 
 @media (max-width: 768px) {
-  .back-to-top {
+  .chat-btn-globe {
     bottom: 15px;
   }
 }

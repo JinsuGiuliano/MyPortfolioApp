@@ -6,6 +6,8 @@ import About  from './components/about/about.component';
 import Porfolio from './components/porfolio/portfolio.component';
 import Services from './components/services/services.component';
 import Contact from './components/contact/contact.component';
+import Chat from './components/chat/chat.component';
+
 import cdnScripts from './assets/scripts/main';
 const App = () =>{
   useEffect(() => {
@@ -18,7 +20,8 @@ const App = () =>{
         <About/>
         <Porfolio />
         <Services/>
-        <Contact/>
+        <Contact />
+        <Chat/>
       </div>
     );
 }

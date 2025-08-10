@@ -4,7 +4,7 @@ import React from 'react'
 const Blog = () => (
 
     <div>
-    <div className="testimonials paralax-mf bg-image" style={{backgroundImage: 'url(img/overlay-bg.jpg)'}}>
+    <div className="testimonials paralax-mf bg-image">
       <div className="overlay-mf" />
       <div className="container">
         <div className="row">
