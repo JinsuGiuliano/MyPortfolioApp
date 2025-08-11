@@ -21,7 +21,7 @@ const App = () =>{
         <Porfolio />
         <Services/>
         <Contact />
-        <Chat/>
+        {/* <Chat/> */}
       </div>
     );
 }
